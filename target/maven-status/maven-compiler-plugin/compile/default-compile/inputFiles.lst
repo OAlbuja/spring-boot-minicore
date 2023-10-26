@@ -1,0 +1,12 @@
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\controllers\ReporteController.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\models\entity\Contrato.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\SpringBootBackendApirestApplication.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\models\dao\IContratoDao.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\models\services\ContratoServiceImpl.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\models\services\IContratoService.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\models\dao\IClienteDao.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\controllers\ClienteRestController.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\controllers\ContratoRestController.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\models\services\ClienteServiceImpl.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\models\services\IClienteService.java
+C:\Spring5\eclipse-workspace\spring-boot-minicore\src\main\java\com\tempoquito\springboot\backend\apirest\models\entity\Cliente.java

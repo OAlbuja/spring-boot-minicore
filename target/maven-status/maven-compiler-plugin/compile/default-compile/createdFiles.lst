@@ -1,0 +1,12 @@
+com\tempoquito\springboot\backend\apirest\models\entity\Cliente.class
+com\tempoquito\springboot\backend\apirest\models\services\IContratoService.class
+com\tempoquito\springboot\backend\apirest\models\dao\IContratoDao.class
+com\tempoquito\springboot\backend\apirest\SpringBootBackendApirestApplication.class
+com\tempoquito\springboot\backend\apirest\models\services\IClienteService.class
+com\tempoquito\springboot\backend\apirest\controllers\ClienteRestController.class
+com\tempoquito\springboot\backend\apirest\models\dao\IClienteDao.class
+com\tempoquito\springboot\backend\apirest\models\services\ClienteServiceImpl.class
+com\tempoquito\springboot\backend\apirest\models\entity\Contrato.class
+com\tempoquito\springboot\backend\apirest\controllers\ContratoRestController.class
+com\tempoquito\springboot\backend\apirest\controllers\ReporteController.class
+com\tempoquito\springboot\backend\apirest\models\services\ContratoServiceImpl.class
