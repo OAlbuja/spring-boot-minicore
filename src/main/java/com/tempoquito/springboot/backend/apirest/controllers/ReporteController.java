@@ -18,7 +18,7 @@ import com.tempoquito.springboot.backend.apirest.models.entity.Cliente;
 import com.tempoquito.springboot.backend.apirest.models.entity.Contrato;
 
 @Controller
-@RequestMapping("/reporte") 
+@RequestMapping("/") 
 public class ReporteController {
 	
 	@Autowired
